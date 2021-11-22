@@ -46,8 +46,6 @@ nav {
      background-image: linear-gradient(to right, #474747, #838383);
      box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.158);
      z-index: 1;
-     min-width: 220px;
-
 }
 
 nav ul li {
