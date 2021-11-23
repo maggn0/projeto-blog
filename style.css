@@ -67,6 +67,10 @@ nav ul li a:hover {
     transition: 0.5s;
 }
 
+nav ul li:last-child a {
+    float: right;
+}
+
 .nask {
     position: sticky;
     top: 0px;
